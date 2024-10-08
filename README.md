@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I am currently searching for a data analytics job so I thought I would showcase some of my work! 
+
+- 🌱 Creativity is the repository that exhibits some of the ways I got creative in both my BSc and MSc
+- 🔭 Shows my work with Python
+- 🤔 Shows my work with Excel
+- 😄 Shows my work with R
+
 <!--
 **LottieAnning/lottieanning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
