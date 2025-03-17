@@ -2,10 +2,10 @@
 
 I am currently searching for a data analytics job so I thought I would showcase some of my work! 
 
-- 🌱 Creativity is the repository that exhibits some of the ways I got creative in both my BSc and MSc
-- 🔭 Shows my work with Python
-- 🤔 Shows my work with Excel
-- 😄 Shows my work with R
+- Python shows some of my recent fun projects with Python 🐍
+- Creativity is the repository that exhibits some of the ways I got creative in both my BSc and MSc 👩‍🎨
+- LIFE4136_rotation3 is one of my MSc rotations which used Python, C, Shell and R to explore ploidy patterns in Arabidopsis 🌸
+- Coming soon: my work with Excel!! 📊
 
 <!--
 **LottieAnning/lottieanning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
