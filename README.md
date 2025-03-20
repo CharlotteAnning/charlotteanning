@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am currently searching for a data analytics job so I thought I would showcase some of my work! 
+I am currently working on expanding my coding portfolio to advance my career in data analytics, so I thought I would showcase some of my work! 
 
 - Python shows some of my recent fun projects with Python 🐍
 - Creativity is the repository that exhibits some of the ways I got creative in both my BSc and MSc 👩‍🎨
